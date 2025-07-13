@@ -1,6 +1,7 @@
 [package]
+edition = "2021"
 name = "echor"
 version = "0.1.0"
-edition = "2021"
 
 [dependencies]
+clap = "2.23"
